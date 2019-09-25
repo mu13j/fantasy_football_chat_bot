@@ -5,7 +5,7 @@
 Like the bot? Star the repository and consider making a donation to buy me a coffee
 ------
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ZDLFECJVGG6RG&currency_code=USD&source=url)
-* BTC: 3C8SEcDh52iDSYQY55kwELrNWoQRMkXLCR
+* BTC: 3C8SEcDh52iDSYQY55kwELrNWoQRMkXLSR
 * ETH: 0xA098c4e8CC1c12422d5B34d6454133190CDdCAC3
 * LTC: MHx74YbrHE592ePBbdQ4cL9ZQC15xaAjtM
 
